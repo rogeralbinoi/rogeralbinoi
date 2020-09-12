@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm a web and mobile developer, musician and a good-hearted boy :heart:
+
 <!--
 **rogeralbinoi/rogeralbinoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
