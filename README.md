@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-My name is Roger, I'm 25 years old and I live at São Paulo, Brazil.
+My name is Roger, I'm 25 years old and I live in São Paulo, Brazil.
 
 I started coding when I was 15 years old, and from that, it has been my passion :nerd_face:.
 
