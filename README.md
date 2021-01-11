@@ -1,10 +1,12 @@
 ### Greetings 👋
 
+<img src="https://user-images.githubusercontent.com/4194366/104147196-1c58e400-53ac-11eb-8510-9db029fff913.png" width="200px" />
+
 My name is Roger, I'm 25 years old and I live in São Paulo, Brazil.
 
 I started coding when I was 15 years old, and from that, it has been my passion :nerd_face:.
 
-Well, be welcome to my profile and come see my work. :wink:
+Well, welcome to my profile and come see my work. :wink:
 
 ### Let's get down to business :computer:
 
