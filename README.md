@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-<img src="https://user-images.githubusercontent.com/4194366/104147196-1c58e400-53ac-11eb-8510-9db029fff913.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/4194366/109705448-8e60d480-7b76-11eb-9ed8-7c6b59592a80.png" width="200px" />
 
 My name is Roger, I'm 25 years old and I live in São Paulo, Brazil.
 
