@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/4194366/109705448-8e60d480-7b76-11eb-9ed8-7c6b59592a80.png" width="200px" />
 
-My name is Roger, I'm 25 years old and I live in São Paulo, Brazil.
+My name is Roger, I'm 28 years old and I live in São Paulo, Brazil.
 
 I started coding when I was 15 years old, and from that, it has been my passion :nerd_face:.
 
