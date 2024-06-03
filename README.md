@@ -1,20 +1,12 @@
 ### Greetings 👋
 
-<img src="https://user-images.githubusercontent.com/4194366/109705448-8e60d480-7b76-11eb-9ed8-7c6b59592a80.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/4194366/109705448-8e60d480-7b76-11eb-9ed8-7c6b59592a80.png" alt="Roger Albino" width="200px" />
 
-My name is Roger, I'm 28 years old and I live in São Paulo, Brazil.
-
-I started coding when I was 15 years old, and from that, it has been my passion :nerd_face:.
-
-Well, welcome to my profile and come see my work. :wink:
-
-### Let's get down to business :computer:
-
-- ⚡️ I’m currently working on web and mobile projects and what i like the most is to make high-end performance applications.
-- 🎸 My focus is ReactJS, React Native, GraphQL, NodeJS.
-- 🌱 I’m currently learning GoLang.
-- 🇺🇸 I’m currently having English classes
-- 👯 I’m looking to help new devs to improve their skills with lectures. Feel free to talk to me anytime.
-- 📫 How to reach me: [https://rogeralbino.dev.br](https://rogeralbino.dev.br)
+👨‍💻 Software Engineer with 10+ years of experience focused on code quality and innovation.
+- Leading a front-end team, developing BFFs and integrating with Micro Services.
+- Involved in migrating to micro-frontend architecture.
+- 🛠️ Participated in critical ecommerce projects, improving performance and usability.
+- 📈 Made significant contributions at Grupo Boticário with new recommendation showcases, A/B testing, and feature toggles.
+- 🎤 Speaker and instructor at GDG, former volunteer mentor at Desenvolve GB, promoting diversity and inclusion in Brazil's tech industry.
 
 <!-- The rocket doesn't have a reverse gear 🚀 -->
